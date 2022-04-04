@@ -14,21 +14,21 @@ The game must be pretty basic; videos are not supported.
 <p>
 
 #### WORKING ON:
-      Sakura Succubus III
-      Sakura Succubus IV
-      Hike Back
+      - Sakura Succubus III
+      - Sakura Succubus IV
+      - Hike Back
   
  #### FUTURE TESTS:
-      Other "Winged Cloud" titles from the Sakuga franchise
-      Sakura Sadist
-      Maid Mansion
-      Katawa Shoujo
-      Coming Out on Top
-      Harvest December: Reharvested
-      Higurashi Matsuri
-      Fall of drop-Sound into prison
-      Fatal Twelve
-      Coffee Talk!
+      - Other "Winged Cloud" titles from the Sakuga franchise
+      - Sakura Sadist
+      - Maid Mansion
+      - Katawa Shoujo
+      - Coming Out on Top
+      - Harvest December: Reharvested
+      - Higurashi Matsuri
+      - Fall of drop-Sound into prison
+      - Fatal Twelve
+      - Coffee Talk!
 
 </p>
 </details>
@@ -36,25 +36,27 @@ The game must be pretty basic; videos are not supported.
 <details><summary>FAILED PORTS</summary>
 <p>
 
+      
+ #### UNAVOIDABLE REN'PY ERROR DURING GAME SESSION:
+      - Sakura Dungeon (during 1st fight)
+      - Milk Outside a Bag of Milk Outside a Bag of Milk (during the Opening cutscenes and when starting the main game)
 
   
- #### NOT WORKING:
-      Sakura Dungeon
-      Toketsu
-      Milk Outside a Bag of Milk Outside a Bag of Milk
-      Analogue - A Hate Story
-      Strike The Light
-      Hate Plus
-      Long Live the Queen
-      Over The Hills And Far Away
+ #### DOESN'T BOOT:
+      - Toketsu
+      - Analogue - A Hate Story
+      - Strike The Light
+      - Hate Plus
+      - Long Live the Queen
+      - Over The Hills And Far Away
 </p>
 </details>
 
 ## Available Ren'Py Vita Ports
-- [(Don't) Open Your Eyes](https://github.com/SilverCrow2323/Don-t-OpenYourVita)
-- [Sakura Succubus](https://github.com/SilverCrow2323/Sakura-Succubus-Vita)
-- [Sakura Succubus 2](https://github.com/SilverCrow2323/Sakura-Succubus-2-Vita)
-- [DDLC mod - Magical Literary Heroine Natsuki Saves The Literature Club!](https://github.com/SilverCrow2323/Magical-Literary-Heroine-Natsuki-Saves-The-Literature-Club-Vita)
+- [(Don't) Open Your Eyes Vita](https://github.com/SilverCrow2323/Don-t-OpenYourVita)
+- [Sakura Succubus Vita](https://github.com/SilverCrow2323/Sakura-Succubus-Vita)
+- [Sakura Succubus 2 Vita](https://github.com/SilverCrow2323/Sakura-Succubus-2-Vita)
+- [DDLC mod - Magical Literary Heroine Natsuki Saves The Literature Club! Vita](https://github.com/SilverCrow2323/Magical-Literary-Heroine-Natsuki-Saves-The-Literature-Club-Vita)
 
 ## Other Ren'Py Vita Ports
 - [Doki Doki Literature Club Vita](https://github.com/SonicMastr/Doki-Doki-Literature-Club-Vita)<br>
