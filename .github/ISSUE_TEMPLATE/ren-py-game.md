@@ -1,6 +1,6 @@
 ---
 name: REN'PY GAME
-about: REN'PY GAME SUGGESTION
+about: Ren'Py Game suggestion
 title: 'GAME TITLE: '
 labels: ''
 assignees: ''
