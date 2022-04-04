@@ -20,12 +20,15 @@ The game must be pretty basic, videos are not supported
       Other "Winged Cloud" titles from the Sakuga franchise
       Sakura Sadist
       Maid Mansion
+      Katawa Shoujo
       Coming Out on Top
       Harvest December: Reharvested
       Higurashi Matsuri
       Fall of drop-Sound into prison
       Fatal Twelve
       Hike Back
+      Coffee Talk!
+
 </p>
 </details>
 
