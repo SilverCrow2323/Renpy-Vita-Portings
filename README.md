@@ -38,7 +38,9 @@ The game must be pretty basic, videos are not supported
       Milk Outside a Bag of Milk Outside a Bag of Milk
       Analogue - A Hate Story
       Strike The Light
-      HatePlus
+      Hate Plus
+      Long Live the Queen
+      Over The Hills And Far Away
 </p>
 </details>
 
