@@ -19,6 +19,7 @@ The game must be pretty basic, videos are not supported
  #### FUTURE TESTS:
       Other "Winged Cloud" titles from the Sakuga franchise
       Sakura Sadist
+      Maid Mansion
 </p>
 </details>
 
