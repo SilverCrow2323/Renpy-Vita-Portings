@@ -23,7 +23,6 @@ The game must be pretty basic; videos are not supported.
       - Hike Back
   
  #### FUTURE TESTS:
-      - Other "Winged Cloud" titles from the Sakuga franchise
       - Sakura Sadist
       - Maid Mansion
       - Katawa Shoujo
