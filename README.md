@@ -59,7 +59,7 @@ The game must be pretty basic; videos are not supported.
 - [(Don't) Open Your Eyes Vita](https://github.com/SilverCrow2323/Don-t-OpenYourVita)
 - [Sakura Succubus Vita](https://github.com/SilverCrow2323/Sakura-Succubus-Vita)
 - [Sakura Succubus 2 Vita](https://github.com/SilverCrow2323/Sakura-Succubus-2-Vita)
-- [DDLC mod - Magical Literary Heroine Natsuki Saves The Literature Club! Vita](https://github.com/SilverCrow2323/Magical-Literary-Heroine-Natsuki-Saves-The-Literature-Club-Vita)
+- [DDLC Mod - Magical Literary Heroine Natsuki Saves The Literature Club! Vita](https://github.com/SilverCrow2323/Magical-Literary-Heroine-Natsuki-Saves-The-Literature-Club-Vita)
 
 ## Other Ren'Py Vita Ports
 - [Doki Doki Literature Club Vita](https://github.com/SonicMastr/Doki-Doki-Literature-Club-Vita)<br>
