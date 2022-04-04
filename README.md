@@ -6,6 +6,9 @@ Go in the "Issues" section and open a new one!
 
 The game must be pretty basic, videos are not supported
 
+---
+
+
 <details><summary>PORT IN PROGRESS</summary>
 <p>
 
