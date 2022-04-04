@@ -1,4 +1,4 @@
-# Ren-py-Vita---Porting-Tests
+# Ren'py-Vita---Porting-Tests
 List of possibily Ren'Py games (mostly VN) to be ported with renpy-vita
 
 ## Do you want to suggest a game to be ported? 
@@ -14,9 +14,11 @@ The game must be pretty basic, videos are not supported
 
 #### MOSTLY DONE:
       Sakura Succubus II
+      Sakura Succubus III
+      Sakura Succubus IV
   
  #### FUTURE TESTS:
-      --
+      Other "Winged Cloud" titles from the Sakuga franchise
 </p>
 </details>
 
