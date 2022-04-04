@@ -12,9 +12,11 @@ The game must be pretty basic, videos are not supported
 <details><summary>PORT IN PROGRESS</summary>
 <p>
 
-#### Sakura Succubus II
-  #### Sakura Succubus III
-      
+#### MOSTLY DONE:
+      Sakura Succubus II
+  
+ #### FUTURE TESTS:
+      --
 </p>
 </details>
 
@@ -32,6 +34,9 @@ The game must be pretty basic, videos are not supported
       Sakura Dungeon
       Toketsu
       Milk Outside a Bag of Milk Outside a Bag of Milk
+      Analogue - A Hate Story
+      Strike The Light
+      HatePlus
 </p>
 </details>
 
