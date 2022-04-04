@@ -1,6 +1,8 @@
 # Ren'Py Vita: Porting Tests
 List of possibily Ren'Py games (mostly VN) to be ported with [renpy-vita](https://github.com/SonicMastr/renpy-vita).
 
+(Basic conversions without further patches)
+
 ## Do you want to suggest a game to be ported? 
 Go in the "Issues" section and open a new one! 
 
@@ -15,6 +17,7 @@ The game must be pretty basic, videos are not supported
 #### MOSTLY DONE:
       Sakura Succubus III
       Sakura Succubus IV
+      Hike Back
   
  #### FUTURE TESTS:
       Other "Winged Cloud" titles from the Sakuga franchise
@@ -26,7 +29,6 @@ The game must be pretty basic, videos are not supported
       Higurashi Matsuri
       Fall of drop-Sound into prison
       Fatal Twelve
-      Hike Back
       Coffee Talk!
 
 </p>
@@ -35,7 +37,7 @@ The game must be pretty basic, videos are not supported
 
 ---
 
-<details><summary>FINISHED PORTS</summary>
+<details><summary>PORTED GAMES</summary>
 <p>
 
 #### WORKING GAMES:
