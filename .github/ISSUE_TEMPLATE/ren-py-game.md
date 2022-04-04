@@ -9,12 +9,12 @@ assignees: ''
 
 <!-- Please use the game's name for issue Title -->
 
-# GAME INFO
+## GAME INFO
 - Game name: 
 - Link: 
 
-# EVENTUAL EXTRA NOTES
+## EVENTUAL EXTRA NOTES
 - Info:
 
-# SCREENSHOTS
+## SCREENSHOTS
 ![](https://?)
