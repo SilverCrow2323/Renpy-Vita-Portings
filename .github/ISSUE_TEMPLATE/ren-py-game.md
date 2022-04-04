@@ -11,10 +11,15 @@ assignees: ''
 
 ## GAME INFO
 - Game name: 
-- Link: 
+
+- Link 1:
+- Link 2: 
+- Link 3:
 
 ## EVENTUAL EXTRA NOTES
-- Info:
+- Info 1:
+
+- Info 2:
 
 ## SCREENSHOTS
 ![](https://?)
