@@ -13,12 +13,12 @@ The game must be pretty basic, videos are not supported
 <p>
 
 #### MOSTLY DONE:
-      Sakura Succubus II
       Sakura Succubus III
       Sakura Succubus IV
   
  #### FUTURE TESTS:
       Other "Winged Cloud" titles from the Sakuga franchise
+      Sakura Sadist
 </p>
 </details>
 
@@ -31,6 +31,8 @@ The game must be pretty basic, videos are not supported
 #### WORKING GAMES:
       (Don't) Open Your Eyes
       Sakura Succubus
+      Sakura Succubus 2
+      DDLC mod - Magical Literary Heroine Natsuki Saves The Literature Club!
   
  #### NOT WORKING:
       Sakura Dungeon
