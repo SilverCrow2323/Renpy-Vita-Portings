@@ -1,4 +1,4 @@
-# Ren'py-Vita---Porting-Tests
+# Ren'Py Vita: Porting Tests
 List of possibily Ren'Py games (mostly VN) to be ported with [renpy-vita](https://github.com/SonicMastr/renpy-vita).
 
 ## Do you want to suggest a game to be ported? 
