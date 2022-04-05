@@ -33,6 +33,14 @@ The game must be pretty basic; videos are not supported.
       - Fatal Twelve
       - Coffee Talk!
       - Kiss for the Petals: Maidens of Michael renpy
+      - Chemically Bonded
+      - Dark Nights / https://pinlin.itch.io/darknights
+      - Down on the Corner / https://lemmasoft.renai.us/forums/viewtopic.php?f=11&t=6973
+      - Locked-In / https://renai.us/game/locked-in
+      - Mein Waifu Is the Führer / 
+      - My Neighbor is a Yandere!? / https://vndb.org/v21493
+      - No One But You / https://vndb.org/v17564
+      - The Censor / https://vndb.org/v17749
 
 </p>
 </details>
