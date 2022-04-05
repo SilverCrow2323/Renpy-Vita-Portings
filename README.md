@@ -47,6 +47,7 @@ The game must be pretty basic; videos are not supported.
       - Ascendant Hearts
       - Anomie
       - Chaos Head NoAH's fan made remake
+      - Loren The Amazon Princess
 
 </p>
 </details>
