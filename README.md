@@ -48,6 +48,7 @@ The game must be pretty basic; videos are not supported.
       - Anomie
       - Chaos Head NoAH's fan made remake
       - Loren The Amazon Princess
+      - Nothing Special / https://pempille.itch.io/nothing-special
 
 </p>
 </details>
