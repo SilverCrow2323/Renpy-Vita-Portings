@@ -71,7 +71,7 @@ _(The "FAILED PORTS" list contains basic Ren'Py-Vita conversions WITHOUT further
 - [Sakura Succubus Vita](https://github.com/SilverCrow2323/Sakura-Succubus-Vita)
 - [Sakura Succubus 2 Vita](https://github.com/SilverCrow2323/Sakura-Succubus-2-Vita)
 - [DDLC Mod - Magical Literary Heroine Natsuki Saves The Literature Club! Vita](https://github.com/SilverCrow2323/Magical-Literary-Heroine-Natsuki-Saves-The-Literature-Club-Vita)
-- [HIKE BACK](https://github.com/SilverCrow2323/HIKE-BACK-Vita)
+- [HIKE BACK Vita](https://github.com/SilverCrow2323/HIKE-BACK-Vita)
 
 ## Other Ren'Py Vita Ports
 - [Doki Doki Literature Club Vita](https://github.com/SonicMastr/Doki-Doki-Literature-Club-Vita)<br>
