@@ -22,7 +22,7 @@ The game must be pretty basic; videos are not supported.
       - Sakura Succubus III
       - Sakura Succubus IV
   
- #### FUTURE TESTS:
+ #### FUTURE TESTS / SUGGESTIONS:
       - Sakura Sadist
       - Maid Mansion
       - Katawa Shoujo
