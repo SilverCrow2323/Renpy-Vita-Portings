@@ -19,7 +19,6 @@ The game must be pretty basic; videos are not supported.
 <p>
 
 #### WORKING ON:
-      - Sakura Succubus III
       - Sakura Succubus IV
   
  #### FUTURE TESTS / SUGGESTIONS:
@@ -78,6 +77,7 @@ _(The "FAILED PORTS" list contains basic Ren'Py-Vita conversions WITHOUT further
 - [(Don't) Open Your Eyes Vita](https://github.com/SilverCrow2323/Don-t-OpenYourVita)
 - [Sakura Succubus Vita](https://github.com/SilverCrow2323/Sakura-Succubus-Vita)
 - [Sakura Succubus 2 Vita](https://github.com/SilverCrow2323/Sakura-Succubus-2-Vita)
+- [Sakura Succubus 3 Vita](https://github.com/SilverCrow2323/Sakura-Succubus-3-Vita)
 - [DDLC Mod - Magical Literary Heroine Natsuki Saves The Literature Club! Vita](https://github.com/SilverCrow2323/Magical-Literary-Heroine-Natsuki-Saves-The-Literature-Club-Vita)
 - [HIKE BACK Vita](https://github.com/SilverCrow2323/HIKE-BACK-Vita)
 
