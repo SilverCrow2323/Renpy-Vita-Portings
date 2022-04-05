@@ -49,6 +49,9 @@ The game must be pretty basic; videos are not supported.
       - Chaos Head NoAH's fan made remake
       - Loren The Amazon Princess
       - Nothing Special / https://pempille.itch.io/nothing-special
+      - Sleepless Night
+      - Sleepless Night 2: Ladies' Night(mare)
+      - The Black Beast
 
 </p>
 </details>
