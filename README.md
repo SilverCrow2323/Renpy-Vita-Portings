@@ -41,6 +41,12 @@ The game must be pretty basic; videos are not supported.
       - My Neighbor is a Yandere!? / https://vndb.org/v21493
       - No One But You / https://vndb.org/v17564
       - The Censor / https://vndb.org/v17749
+      - Immortal Snake Nest
+      - Stillwater
+      - The Language of Love
+      - Ascendant Hearts
+      - Anomie
+      - Chaos Head NoAH's fan made remake
 
 </p>
 </details>
