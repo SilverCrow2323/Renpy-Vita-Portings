@@ -73,6 +73,7 @@ The game must be pretty basic; videos are not supported.
 ## Other Ren'Py Vita Ports
 - [Doki Doki Literature Club Vita](https://github.com/SonicMastr/Doki-Doki-Literature-Club-Vita)<br>
 - [Contract Demon Vita](https://github.com/SonicMastr/Contract-Demon-Vita)
+- [Adastra Vita](https://www.reddit.com/r/Adastra_/comments/tctmeg/port_of_adastra_for_the_ps_vita/)
 
 ---
 
