@@ -5,7 +5,7 @@
 
 List of possibile Ren'Py games (mostly VN) to be ported with [renpy-vita](https://github.com/SonicMastr/renpy-vita).
 
-_(Basic conversions without further patches)_
+
 
 ## Do you want to suggest a specific game to be ported? 
 Go to the "Issues" section and open a new one! 
@@ -13,6 +13,7 @@ Go to the "Issues" section and open a new one!
 The game must be pretty basic; videos are not supported.
 
 ---
+
 
 <details><summary>PORT IN PROGRESS</summary>
 <p>
@@ -63,6 +64,8 @@ The game must be pretty basic; videos are not supported.
       - Over The Hills And Far Away
 </p>
 </details>
+
+_(The "FAILED PORTS" list contains basic Ren'Py-Vita conversions WITHOUT further patches)_
 
 ## Available Ren'Py Vita Ports
 - [(Don't) Open Your Eyes Vita](https://github.com/SilverCrow2323/Don-t-OpenYourVita)
