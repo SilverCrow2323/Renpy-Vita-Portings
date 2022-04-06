@@ -89,9 +89,9 @@ _(The "FAILED PORTS" list contains basic Ren'Py-Vita conversions WITHOUT further
 - [Doki Doki Literature Club Vita](https://github.com/SonicMastr/Doki-Doki-Literature-Club-Vita)<br>
 - [Contract Demon Vita](https://github.com/SonicMastr/Contract-Demon-Vita)
 - [Adastra Vita](https://www.reddit.com/r/Adastra_/comments/tctmeg/port_of_adastra_for_the_ps_vita/)
-- [Sakura Fox](https://github.com/deepestdrive/Sakura-Fox-vita)
-- [Sakura Apprentice](https://github.com/deepestdrive/Sakura-Apprentice-vita)
-- [Sakura Sweetheart](https://github.com/deepestdrive/Sakura-Sweetheart-vita)
+- [Sakura Fox Adventure Vita](https://github.com/deepestdrive/Sakura-Fox-vita)
+- [Sakura Apprentice Vita](https://github.com/deepestdrive/Sakura-Apprentice-vita)
+- [Sakura Sweetheart Vita](https://github.com/deepestdrive/Sakura-Sweetheart-vita)
 
 ---
 
