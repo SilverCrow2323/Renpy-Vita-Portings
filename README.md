@@ -20,11 +20,11 @@ The game must be pretty basic; videos are not supported.
 
 #### WORKING ON:
       - Sakura Succubus IV
+      - Maid Mansion
   
  #### FUTURE TESTS / SUGGESTIONS:
       - Sakura Succubus V
       - Sakura Sadist
-      - Maid Mansion
       - Katawa Shoujo
       - Coming Out on Top
       - Harvest December: Reharvested
