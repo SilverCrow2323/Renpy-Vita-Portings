@@ -62,9 +62,9 @@ The game must be pretty basic; videos are not supported.
 <p>
 
       
- #### UNAVOIDABLE REN'PY ERROR DURING GAME SESSION:
+ #### UNAVOIDABLE REN'PY ERRORS DURING GAME SESSION:
       - Sakura Dungeon (1st fight)
-      - Milk Outside a Bag of Milk Outside a Bag of Milk (Opening cutscenes and starting the main game)
+      - Milk Outside a Bag of Milk Outside a Bag of Milk (Opening cutscene and starting the main game)
 
   
  #### DOESN'T BOOT:
