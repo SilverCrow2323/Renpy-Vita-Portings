@@ -26,7 +26,8 @@ The game must be pretty basic; videos are not supported.
   
  #### FUTURE TESTS / SUGGESTIONS:
       - Sakura Sadist
-      - Sakura Swim Club
+      - Would you like to run an idol café?
+      - Legends of Talia: Arcadia
       - Katawa Shoujo
       - Coming Out on Top
       - Higurashi Matsuri
