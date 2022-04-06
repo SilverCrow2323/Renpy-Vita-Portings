@@ -31,7 +31,7 @@ The game must be pretty basic; videos are not supported.
       - Katawa Shoujo
       - Coming Out on Top
       - Higurashi Matsuri
-      - Fall of Drop
+      - Sound of Drop -fall into poison-
       - Fatal Twelve
       - Coffee Talk!
       - Kiss for the Petals: Maidens of Michael renpy
