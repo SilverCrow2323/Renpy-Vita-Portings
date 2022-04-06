@@ -32,7 +32,6 @@ The game must be pretty basic; videos are not supported.
       - Coming Out on Top
       - Higurashi Matsuri
       - Fall of Drop
-      - Sound Into Prison
       - Fatal Twelve
       - Coffee Talk!
       - Kiss for the Petals: Maidens of Michael renpy
