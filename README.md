@@ -20,13 +20,15 @@ The game must be pretty basic; videos are not supported.
 
 #### WORKING ON:
       - Maid Mansion
+      - Harvest December: Reharvested
+      - Sakura MMO
+      - Sakura Succubus 5
   
  #### FUTURE TESTS / SUGGESTIONS:
-      - Sakura Succubus V
       - Sakura Sadist
+      - Sakura Swim Club
       - Katawa Shoujo
       - Coming Out on Top
-      - Harvest December: Reharvested
       - Higurashi Matsuri
       - Fall of drop-Sound into prison
       - Fatal Twelve
