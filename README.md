@@ -26,7 +26,6 @@ The game must be pretty basic; videos are not supported.
       - Sakura Sadist
       - Would you like to run an idol café?
       - Legends of Talia: Arcadia
-      - Katawa Shoujo
       - Coming Out on Top
       - Higurashi Matsuri
       - Sound of Drop -fall into poison-
@@ -72,6 +71,7 @@ The game must be pretty basic; videos are not supported.
       - Hate Plus
       - Long Live the Queen
       - Over The Hills And Far Away
+      - Katawa Shoujo (sadly)
 </p>
 </details>
 
