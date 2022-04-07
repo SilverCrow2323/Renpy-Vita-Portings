@@ -18,10 +18,9 @@ The game must be pretty basic; videos are not supported.
 <details><summary>PORT IN PROGRESS</summary>
 <p>
 
-#### WORKING ON:
+#### TESTING:
       - Maid Mansion
       - Harvest December: Reharvested
-      - Sakura Succubus 5
   
  #### FUTURE TESTS / SUGGESTIONS:
       - Sakura Sadist
