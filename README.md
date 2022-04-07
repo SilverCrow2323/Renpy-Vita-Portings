@@ -21,7 +21,6 @@ The game must be pretty basic; videos are not supported.
 #### WORKING ON:
       - Maid Mansion
       - Harvest December: Reharvested
-      - Sakura MMO
       - Sakura Succubus 5
   
  #### FUTURE TESTS / SUGGESTIONS:
