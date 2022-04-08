@@ -15,6 +15,7 @@ The game must be pretty basic; videos are not supported.
 ---
 
 
+
 <details><summary>PORT IN PROGRESS</summary>
 <p>
 
@@ -54,6 +55,8 @@ The game must be pretty basic; videos are not supported.
 
 </p>
 </details>
+
+- [Harvest December: Reharvested](https://github.com/takoyaki99/Harvest-December-Reharvested-Portable) with takoyaki99
 
 <details><summary>FAILED PORTS</summary>
 <p>
