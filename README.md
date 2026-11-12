@@ -96,4 +96,6 @@ _(The "FAILED PORTS" list contains basic Ren'Py-Vita conversions WITHOUT further
 
 ---
 
+## 📚 Practical Wiki
 
+The [GitHub Wiki](https://github.com/SilverCrow2323/Renpy-Vita-Portings/wiki) explains compatibility limits, port status, how to suggest a game and how to report test results. The tracked Markdown source is in [wiki-source/](wiki-source/); publish reviewed pages with `sh tools/publish_wiki.sh`.
